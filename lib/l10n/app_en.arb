@@ -1,11 +1,51 @@
 {
-  "login": "Login",
+  "skip": "skip",
+  "start": "START",
+  "start": "START",
+  "welcomeinthegymapp": "Welcome in the GYM App", 
+  "enjoy": "Enjoy choosing the best exercises and the best sports foods in the best GYM APP", 
+  "gymhype": "Gym Hype",
+  "lestburnsome": "Let's burn some calories",
   "email": "Email",
   "password": "Password",
-  "welcome": "Welcome back...",
-  "main": "Main",
-  "name": "Name",
-  "phone": "Phone",
-  "save": "Save",
-  "update": "Update"
+  "forgetpassword": "Forget Password ? ",
+  "login": "LOGIN",
+  "welcomehere": "WELCOME HERE",
+  "bmiCalculator": "BMI Calculator",
+  "exercisepage": "Exercise page",
+  "mealsScreen": "Meals Screen",
+  "aboutapp": "About App",
+  "welcome": "WELCOME ...",
+  "choosewant": "Choose what you want",
+  "backexercises": "Back exercises",
+  "shoulderexercises": "Shoulder Exercises",
+  "armsexercises": "Arms Exercises",
+  "legsexercises": "Legs Exercises",
+  "chestexercises": "chest Exercises",
+  "trainingpagebestrong": "TRAINING PAGE BE STRONG",
+  "firstexercises": "First Exercise",
+  "secondexercises": "Secound Exercise",
+  "thirdexercises": "Third Exercise",
+  "fourthexercises": "Fourth Exercise",
+  "fifthexercises": "Fifth Exercise",
+  "about": "About",
+  "appversion": "App Version",
+  "lastapdate": "Last update",
+  "develober": "Developer",
+  "github": "Github",
+  "apps": "APP",
+  "male": "MALE",
+  "female": "FEMALE",
+  "age": "AGE",
+  "weight": "WEIGHT",
+  "calculate": "calculate",
+  "h": "Height",
+
+
+
+
+
+
+
+  "update": "update"
 }
